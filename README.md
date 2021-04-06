@@ -7,12 +7,12 @@ Order
 - What’s the trend of profit/sales?
 -	What’s the trend of the number of orders?
 -	What’s the effectiveness of discount on sales? What’s the relationship between discount and sales?
--	
+
 Product
 -	Which product category has great sales/profit?
 -	Which product is profitable? Which product is making loss?
 -	What’s the trend of profit on our product?
--	
+
 Customer
 -	Who are our profitable customers?
 -	Which customer segment has great sales/profit?
