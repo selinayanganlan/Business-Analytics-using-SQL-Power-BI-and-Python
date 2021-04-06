@@ -2,6 +2,7 @@
 Provided business analytics and identified trends for orders, products and customers by generating complex data extracts and queries using SQL and visualizing the data in Power BI to answer specific business questions.
 
 Business questions
+
 Order
 - What’s our overall profit/sales over different years?
 - What’s the trend of profit/sales?
