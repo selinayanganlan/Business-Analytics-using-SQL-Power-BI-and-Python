@@ -1,5 +1,7 @@
 # Business-Analytics-using-SQL-and-Power-BI
-Provided business analytics and identified trends for orders, products and customers by generating complex data extracts and queries using SQL and visualizing the data in Power BI to answer specific business questions. ([Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzBmMTAzZTEtNTRkOS00ZTJjLWE5NzctOTcxMTVlNzRjMzMzIiwidCI6IjZkYjU5OTA5LTYyMjYtNDQ3My05MDYxLWJhZTNjNjRiY2I4NCIsImMiOjEwfQ%3D%3D))
+PIdentified the trends of orders, products and customers by generating complex SQL queries and visualizing data in Power BI for specific business questions.
+
+[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzBmMTAzZTEtNTRkOS00ZTJjLWE5NzctOTcxMTVlNzRjMzMzIiwidCI6IjZkYjU5OTA5LTYyMjYtNDQ3My05MDYxLWJhZTNjNjRiY2I4NCIsImMiOjEwfQ%3D%3D)
 
 ## Business Questions:
 For Order
