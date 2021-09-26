@@ -1,5 +1,6 @@
 # Business-Analytics-using-SQL-Power-BI-and-Python
-Identified the trends of orders, products and customers by generating complex SQL queries and visualizing data in Power BI for specific business questions. ([Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzBmMTAzZTEtNTRkOS00ZTJjLWE5NzctOTcxMTVlNzRjMzMzIiwidCI6IjZkYjU5OTA5LTYyMjYtNDQ3My05MDYxLWJhZTNjNjRiY2I4NCIsImMiOjEwfQ%3D%3D))
+- Identified the trends of orders, products and customers by generating complex SQL queries and visualizing data in Power BI for specific business questions. ([Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzBmMTAzZTEtNTRkOS00ZTJjLWE5NzctOTcxMTVlNzRjMzMzIiwidCI6IjZkYjU5OTA5LTYyMjYtNDQ3My05MDYxLWJhZTNjNjRiY2I4NCIsImMiOjEwfQ%3D%3D))
+- Optimized discount rate to increase sales using Python.
 
 ## Business Questions:
 For Order
